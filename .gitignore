@@ -136,3 +136,5 @@ _static/
 
 .env.prod
 .env.prod.db
+
+data/
